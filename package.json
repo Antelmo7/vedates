@@ -1,0 +1,16 @@
+{
+  "name": "vedates",
+  "version": "1.0.0",
+  "description": "A utility to handle dates on timestamp and long time.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "nodejs",
+    "dates"
+  ],
+  "author": "Antelmo Verdugo <antelmoverdugo@gmail.com>",
+  "license": "MIT"
+}
